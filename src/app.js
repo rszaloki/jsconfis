@@ -1,2 +1,2 @@
-var alma = require('./alma');
+var alma = 'alma'
 console.log(alma);
